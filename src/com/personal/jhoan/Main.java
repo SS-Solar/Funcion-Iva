@@ -34,6 +34,11 @@ public class Main {
                 "Variable char: " + variablechar+
                 "   Variable string: " + variablestring
         );
-
+        char variablechar2= 'a';
+        String variablestring2="Hola";
+        System.out.println(
+                "Variable char: " + variablechar2+
+                        "   Variable string: " + variablestring2
+        );
     }
 }
