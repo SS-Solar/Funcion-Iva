@@ -39,6 +39,8 @@ public class Main {
         System.out.println(
                 "Variable char: " + variablechar2+
                         "   Variable string: " + variablestring2
+
+
         );
     }
 }
